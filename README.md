@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 Things you might want to check out:
@@ -6,7 +6,7 @@ Things you might want to check out:
 - [Public talks](https://asatarin.github.io/talks/)
 - [Short bio](https://asatarin.github.io/about)
 
-Contacts:
+### Contacts
 - Professional profile on [LinkedIn](https://www.linkedin.com/in/asatarin/)
 - Twitter [@asatarin](https://twitter.com/asatarin)
 
