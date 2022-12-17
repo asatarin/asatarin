@@ -9,4 +9,4 @@ Things you might want to check out:
 ### Contacts
 - Professional profile on [LinkedIn](https://www.linkedin.com/in/asatarin/)
 - Twitter [@asatarin](https://twitter.com/asatarin)
-
+- Mastodon <a rel="me" href="https://discuss.systems/@asatarin">https://discuss.systems/@asatarin</a>
