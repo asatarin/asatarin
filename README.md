@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 Here are a few items you might find interesting:
 - A curated collection of resources on [testing distributed systems](https://asatarin.github.io/testing-distributed-systems/)
