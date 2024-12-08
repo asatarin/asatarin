@@ -8,5 +8,6 @@ Here are a few items you might find interesting:
 ### Contacts
 - Profile on [LinkedIn](https://www.linkedin.com/in/asatarin/)
 - Twitter [@asatarin](https://twitter.com/asatarin)
-- Mastodon <a rel="me" href="https://discuss.systems/@asatarin">https://discuss.systems/@asatarin</a>
+- Bluesky [@asatarin.bsky.social](https://bsky.app/profile/asatarin.bsky.social)
 - A brief [bio](https://asatarin.github.io/about)
+- Follow on [other platforms](https://asatarin.github.io/follow/)
